@@ -1,0 +1,2 @@
+Original code for “Precision Omic Portrait Spots the Epigenetic Variable during Cellular Identity Reshaping of Metastatic Head and Neck Squamous Cell Carcinoma” (title subject to minor revision). If there are any omissions or questions, please feel free to contact me at qiushifeng163@163.com. Thank you for your recognition, assistance, and support of this research.
+Version 1.0: Initial draft of the original code, May 17, 2025.
